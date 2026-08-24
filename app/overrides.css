@@ -1,0 +1,9 @@
+.home-main { max-width: 1103px; grid-template-columns: 372px 1fr; column-gap: 89px; }
+.profile-orb { flex: 0 0 202px; }
+.home-copy { padding-top: 2px; }
+.home-copy h1, .display-title { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; }
+.portfolio-main { max-width: 905px; }
+.display-title { line-height: 1.22; }
+.impact-page .more-nav { display: inline-block; }
+@media (max-width: 900px) { .home-main { grid-template-columns: 300px 1fr; column-gap: 44px; } }
+@media (max-width: 680px) { .home-main { display: block; } }
