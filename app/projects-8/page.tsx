@@ -1,5 +1,5 @@
-import { ImpactPage } from '../site';
+import { WhereLearnedPage } from '../site';
 
 export default function Page() {
-  return <ImpactPage />;
+  return <WhereLearnedPage />;
 }
